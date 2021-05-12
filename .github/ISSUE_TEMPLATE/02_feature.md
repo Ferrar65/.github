@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 
-### Context
+### Descrizione
 Di cosa si tratta?
 
 ### Possibile implementazione
