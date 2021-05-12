@@ -1,6 +1,9 @@
 ---
-name: 🚀 Feature
-about: 💡 Nuove funzionalità
+name: Feature
+about: Nuove funzionalità
+title: '[FEAT] '
+labels: ''
+assignees: ''
 ---
 
 ### Context
