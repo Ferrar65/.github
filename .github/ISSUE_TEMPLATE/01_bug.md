@@ -10,7 +10,7 @@ assignees: ''
 
 ### Cosa succede invece?
 
-### Informazioni aggiuntivi
+### Informazioni aggiuntive
 
 ### URL (opzionale)
 
